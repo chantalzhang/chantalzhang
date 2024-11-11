@@ -1,7 +1,7 @@
 ## Hi, I'm Chantal Zhang👋
 
-📖I'm a Computer Science:AI and management student at McGill University
-🎯I'm passionate about software development and the applications of AI
+📖I'm a Computer Science:AI and management student at McGill University  
+🎯I'm passionate about software development and the applications of AI  
 
 
 ### Tech Stack
