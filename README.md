@@ -1,6 +1,8 @@
 ## Hi, I'm Chantal Zhang👋
 
-I'm a Computer Science - Artificial Intelligence student at McGill University pursuing a minor in management. I'm passionate about software development and the applications of AI, especially in the fields of NLP and computer vision. 
+📖I'm a Computer Science:AI and management student at McGill University
+🎯I'm passionate about software development and the applications of AI
+
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -9,11 +11,11 @@ I'm a Computer Science - Artificial Intelligence student at McGill University pu
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-[![Chantal's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YourUsername&theme=react-dark&hide_border=true&radius=10)](https://github.com/chantalzhang)
-
 
 ### Connect with Me
 [LinkedIn](www.linkedin.com/in/chantal-zhang)
+[Email](mailto:your-email@example.com)
+
 
 
 
