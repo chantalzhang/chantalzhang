@@ -4,13 +4,11 @@
 🎯I'm passionate about software development and the applications of AI  
 
 
-### Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 💻 Software Skills
+Python, Java, C, SQL, HTML/CSS, JavaScript, Git, Bash, Linux, React, Node.js, WordPress, Docker, ROS
 
+### 🌐 Languages
+Proficient in French, English, and Mandarin
 
 ### Connect with Me
 [LinkedIn](www.linkedin.com/in/chantal-zhang)
