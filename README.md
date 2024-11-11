@@ -11,8 +11,8 @@ Python, Java, C, SQL, HTML/CSS, JavaScript, Git, Bash, Linux, React, Node.js, Wo
 Proficient in French, English, and Mandarin
 
 ### Connect with Me
-[LinkedIn](www.linkedin.com/in/chantal-zhang)
-[Email](mailto:your-email@example.com)
+[LinkedIn](www.linkedin.com/in/chantal-zhang)  
+[chantal.zhang@mail.mcgill.ca](chantal.zhang@mail.mcgill.ca)
 
 
 
