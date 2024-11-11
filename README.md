@@ -9,6 +9,9 @@ I'm a Computer Science - Artificial Intelligence student at McGill University pu
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+[![Chantal's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YourUsername&theme=react-dark&hide_border=true&radius=10)](https://github.com/YourUsername)
+
+
 ### Connect with Me
 [LinkedIn](www.linkedin.com/in/chantal-zhang)
 
