@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Chantal Zhang👋
+
+I'm a Computer Science - Artificial Intelligence student at McGill University pursuing a minor in management. I'm passionate about software development and the applications of AI, especially in the fields of NLP and computer vision. 
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+
 
 <!--
 **chantalzhang/chantalzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
