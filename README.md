@@ -1,14 +1,5 @@
-## Hi, I'm Chantal Zhang👋
-
-📖I'm a Computer Science:AI and management student at McGill University  
-🎯I'm passionate about software development and the applications of AI  
-
-
-### 💻 Software Skills
-Python, Java, C, SQL, HTML/CSS, JavaScript, Git, Bash, Linux, React, Node.js, WordPress, Docker, ROS
-
-### 🌐 Languages
-Proficient in French, English, and Mandarin
+## Hi!! 
+I'm Chantal, a Computer Science & AI student at McGill University pursuing a minor in management. I like learning by doing, whether that's through hackathons, research, design, or hands-on tech projects. Always happy to work on meaningful things together :)
 
 ### Connect with Me
 [LinkedIn](www.linkedin.com/in/chantal-zhang)  
