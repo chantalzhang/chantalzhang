@@ -1,9 +1,21 @@
-## Hi!! 
-I'm Chantal, a Computer Science & AI student at McGill University pursuing a minor in management. I like learning by doing, whether that's through hackathons, research, design, or hands-on projects. Always happy to work on meaningful things together :)
+## Hi!! 😁 
+I'm Chantal
 
-### Connect with Me
+**Things I like:**
+- Making cool stuff 😱
+- Working with people ✅
+- Learning new things 🤔
+- Building projects that actually work 💯
+
+**Things I don't like:**
+- Not making stuff ❌
+- Working alone 🐺
+- Stagnating 🥱
+- Breaking projects 🥀
+
+
+
 [LinkedIn](www.linkedin.com/in/chantal-zhang)  
-[chantal.zhang@mail.mcgill.ca](chantal.zhang@mail.mcgill.ca)
 
 
 
