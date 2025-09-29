@@ -9,7 +9,7 @@ I'm Chantal
 
 **Things I don't like:**
 - Not making stuff ❌
-- Working alone 🐺
+- Working alone forever 🐺
 - Stagnating 🥱
 - Breaking projects 🥀
 
