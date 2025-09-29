@@ -1,4 +1,4 @@
-## Hi!! 😁 
+## Hi!! 
 I'm Chantal
 
 **Things I like:**
