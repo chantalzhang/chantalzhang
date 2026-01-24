@@ -1,6 +1,11 @@
 ## Hi!! 
 I'm Chantal
 
+I like working on cool stuff 
+
+[LinkedIn](www.linkedin.com/in/chantal-zhang)  
+
+<!--
 **Things I like:**
 - Making cool stuff 😱
 - Working with people ✅
@@ -12,13 +17,6 @@ I'm Chantal
 - Working alone forever 🐺
 - Stagnating 🥱
 - Breaking projects 🥀
-
-
-
-[LinkedIn](www.linkedin.com/in/chantal-zhang)  
-
-
-
 
 
 
