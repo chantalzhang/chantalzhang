@@ -1,7 +1,7 @@
 ## Hi!! 
 I'm Chantal
 
-I like working on cool stuff 
+I like working on fun things 
 
 [LinkedIn](www.linkedin.com/in/chantal-zhang)  
 
